@@ -1,0 +1,9 @@
+{
+    "name": "Jason Thisbé",
+    "address": "28 Pasternak Street Floreal, Mauritius",
+    "age": 21,
+    "school": "University of Mauritius",
+    "is_student": true,
+    "image": "https://res.cloudinary.com/ibctxjyu/image/upload/Screenshot_2026-10-28_184250.png",
+    "description": "Hello World, I am Jason Thisbé, While writing this article, I developed more than 10 applications using flutter and also working as a project manager for various projects. I am using flutter from its beta version. In this article I will share path to become flutter expert."
+}
