@@ -8,7 +8,7 @@ The purpose of this repository is to provide remotely accessible JSON data for l
 
 ## Files
 
-person.json – Contains sample person information.
+- person.json – Contains sample person information.
 
 ## Usage
 
