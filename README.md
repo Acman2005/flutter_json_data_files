@@ -4,7 +4,7 @@ This repository contains JSON files hosted online for use in Flutter application
 
 ## Purpose
 
-The purpose of this repository is to provide remotely accessible JSON data for learning and practising data fetching, JSON parsing, and API integration in Flutter.
+The purpose of this repository is to store and provide JSON data online for Flutter applications. It allows developers to access JSON files remotely through their URLs, making it easier to practise fetching data from the internet, decoding JSON responses, and using the retrieved data within Flutter applications. It also serves as a simple resource for learning how to work with remote data and integrate it into Flutter projects.
 
 ## Files
 
